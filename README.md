@@ -3,4 +3,3 @@
 
 Install:
     - vagrant >=2.4.9
-    - 
